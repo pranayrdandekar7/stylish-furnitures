@@ -20,3 +20,9 @@
     padding-left: 400px;
     padding-right: 400px;
 }
+
+.furnished-room-img{
+    width: auto;
+    padding-left: 300px ;
+    border-radius: 50px;
+}

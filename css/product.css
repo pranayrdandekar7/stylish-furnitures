@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+   
+
+}
+.container-1{
+    padding: 8px;
+   
+}
+.text{
+    padding: 100px;
+   padding-top: 20px;
+}
+.text1{
+    padding: 60px;
+    padding-top: 20px;
+}

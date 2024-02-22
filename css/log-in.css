@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(255 203 216);
+}
+
+.sign-in-page{
+    height: 500px;
+    width: 400px;
+   background-color: white;  
+   text-align: center;
+   margin: auto auto;
+   margin-top: 30px;
+   border-radius: 20px;
+}
+.h1{
+    font-size: 30px;
+    
+}
+.h3{
+    font-size: 15px;
+
+}
+#Name{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #eeccff;
+
+}
+
+.btn{
+    border-radius: 30px;
+    background-color: #c44dff;
+    border: none;
+    padding: 10px 24px;
+}

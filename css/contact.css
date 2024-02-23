@@ -42,8 +42,10 @@ color: aliceblue;
     justify-content: center;
     text-align: center;
     align-items: center;
+    
 }
 .card1{
+background-color: white;
     height: 200px;
     width: 250px;
     box-shadow: 1px 1px 50px 3px #606060;
@@ -56,6 +58,7 @@ color: aliceblue;
    
 }
 .card2{
+    background-color: white;
     height: 200px;
     width: 250px;
     box-shadow: 1px 1px 50px 3px #606060;
@@ -66,6 +69,7 @@ color: aliceblue;
     border-radius: 10px;
 }
 .card3{
+    background-color: white;
     height: 200px;
     width: 250px;
     box-shadow: 1px 1px 50px 3px #606060;
@@ -75,6 +79,7 @@ color: aliceblue;
     border-radius: 10px;
 }
 .card4{
+    background-color: white;
     height: 200px;
     width: 250px;
     box-shadow: 1px 1px 50px 3px #606060;
@@ -92,7 +97,7 @@ background-color:white;
  position: absolute;
  left: 90px;
  top: -10px;
- box-shadow: 1px 1px 50px 3px #606060
+ box-shadow: 1px 1px 10px 3px #606060
 
  
 }
@@ -103,7 +108,7 @@ background-color:white;
      position: absolute;
      left: 90px;
      top: -10px;
-     box-shadow: 1px 1px 50px 3px #606060
+     box-shadow: 1px 1px 10px 3px #606060
     }
     .icon3{ 
         background-color:white;
@@ -112,7 +117,7 @@ background-color:white;
          position: absolute;
          left: 90px;
          top: -10px;
-         box-shadow: 1px 1px 50px 3px #606060
+         box-shadow: 1px 1px 10px 3px #606060
         }
         .icon4{ 
             background-color:white;
@@ -121,19 +126,18 @@ background-color:white;
              position: absolute;
              left: 90px;
              top: -10px;
-             box-shadow: 1px 1px 50px 3px #606060;
+             box-shadow: 1px 1px 10px 3px #606060;
             }
             .book-text{
                 font-size: 20px;
             }
             .request-section{
-                background-color:skyblue
-                ;
-                height: 550px;
-                width: 900px;
+            background-color: white;
+                height: 450px;
+                width: 800px;
                border-radius: 10px;
                 padding: 20px;
-                box-shadow: 2px 2px 100px 2px brown;
+                box-shadow: 2px 2px 10px 2px brown;
 
             }
             .iconman{

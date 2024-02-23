@@ -1,21 +1,22 @@
-body{
+body {
     background-color: bisque;
     padding: 0;
     margin: 0;
 }
 
-.navbar{
+.navbar {
     background-color: white;
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.menu-icon{
+.menu-icon {
     height: 25px;
-    margin:15px;
+    margin: 15px;
 }
-.brand-container{
+
+.brand-container {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -23,55 +24,90 @@ body{
     margin-left: 30px;
     width: 125px;
 }
-.brand-container-1{
+
+.brand-container-1 {
     width: 350px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-   
-    
+
+
 }
-.brand-name{
+
+.brand-name {
     text-align: center;
     font-size: 23px;
     font-weight: bold;
 }
-.searchbar{
+
+.searchbar {
     font-size: 17px;
     border-radius: 30px;
     width: 450px;
-    padding: 10px ;
+    padding: 10px;
     border: 2px solid #f2f2f2;
     margin-left: 100px;
-   
+
 }
-.search-icon{
+
+.search-icon {
     height: 20px;
     position: relative;
     right: 35px;
 }
-.mike{
+
+.mike {
     height: 25px;
     background-color: #f2f2f2;
     padding: 12px;
     border-radius: 50%;
     margin: 2px;
 }
-.login-container{
+
+.login-container {
     display: flex;
-   align-items: center;
+    align-items: center;
     width: 90px;
     justify-content: space-around;
     margin-left: 100px;
     margin-right: 60px;
-    
+
 }
-.login{
+
+.login {
     height: 20px;
-    
+
 }
-.login-icon{
+
+.login-icon {
     height: 30px;
-   
-   
+}
+
+.navbar-section2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 50px;
+
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 15px;
+
+
+}
+
+.nav-item {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.header-background-img {
+    height: 100vh;
+    width: 100%;
+
+    /* Add the blur effect */
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
+    border: 10px solid black;
 }

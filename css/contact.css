@@ -1,8 +1,10 @@
 body{
     background-color: bisque;
+    
 }
 .banner{
  height: 400px;
+ filter: blur(2px);
 
 
     
@@ -12,20 +14,22 @@ body{
     height: 500px;
     width: 1500px;
     border-radius: 10px;
-    box-shadow: 2px 2px 100px 2px brown;
+    box-shadow: 2px 2px 10px 2px brown;
  
 }
 .contact-heading{
     position: relative;
     left: 550px;
-    bottom: 50px;
+    bottom: 230px;
 }
 .text1{
     font-size:35px ;
+    color: white;
+    font-size: 50px;
 }
 .btn{
      background-color: black;
-     padding: 10px 35px;
+     padding: 10px 55px;
      color: white;
      border-radius: 15px;
      border: none;
@@ -131,12 +135,22 @@ background-color:white;
             .book-text{
                 font-size: 20px;
             }
+            .section-last-second{
+                display:block;
+                text-align:center;
+                
+    
+                
+            }
             .request-section{
             background-color: white;
-                height: 450px;
+                height: 550px;
                 width: 800px;
                border-radius: 10px;
                 padding: 20px;
+            
+
+            justify-content: center;
                 box-shadow: 2px 2px 10px 2px brown;
 
             }
@@ -148,7 +162,11 @@ background-color:white;
                 font-size: 20px;
             }
             .book-text{
-                font-size: 35px;
+                font-size: 25px;
+            }
+            .section-last{
+                display: flex;
+                justify-content: center;
             }
             
             

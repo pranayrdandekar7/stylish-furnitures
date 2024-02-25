@@ -61,39 +61,10 @@ background-color: white;
     
    
 }
-.card2{
-    background-color: white;
-    height: 200px;
-    width: 250px;
-    box-shadow: 1px 1px 50px 3px #606060;
-    margin: 20px;
-    position: relative;
-    padding-top:50px ;
-    padding: 10px auto;
-    border-radius: 10px;
-}
-.card3{
-    background-color: white;
-    height: 200px;
-    width: 250px;
-    box-shadow: 1px 1px 50px 3px #606060;
-    margin: 20px;
-    position: relative;
-    padding-top:50px ;
-    border-radius: 10px;
-}
-.card4{
-    background-color: white;
-    height: 200px;
-    width: 250px;
-    box-shadow: 1px 1px 50px 3px #606060;
-    margin: 20px;
-    position: relative;
-    padding-top:50px ;
-    border-radius: 10px;
+
     
     
-}
+
 .icon1{ 
 background-color:white;
  height: 60px;
@@ -105,33 +76,9 @@ background-color:white;
 
  
 }
-.icon2{ 
-    background-color:white;
-     height: 60px;
-     border-radius: 50%;
-     position: absolute;
-     left: 90px;
-     top: -10px;
-     box-shadow: 1px 1px 10px 3px #606060
-    }
-    .icon3{ 
-        background-color:white;
-         height: 60px;
-         border-radius: 50%;
-         position: absolute;
-         left: 90px;
-         top: -10px;
-         box-shadow: 1px 1px 10px 3px #606060
-        }
-        .icon4{ 
-            background-color:white;
-             height: 60px;
-             border-radius: 50%;
-             position: absolute;
-             left: 90px;
-             top: -10px;
-             box-shadow: 1px 1px 10px 3px #606060;
-            }
+
+    
+            
             .book-text{
                 font-size: 20px;
             }
